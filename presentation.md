@@ -4,7 +4,6 @@
 イベントでの発表用に作りかけていたプレゼンテーションをネットでも見れるようGitHub用に作り直しました。  
 イベントでの発表と違って発表時間の制限が無いので、より詳しく書けそうです。  
 最後にソースコード全体を公開しますので是非ご覧ください。  
-(以下の内容の著作権は佐口航に帰属します。)
 
 ![スライド1](https://github.com/SaguchiWataru/Deep_learning_on_comments_and_colors/blob/master/images/presentation/ver2020_05_25_18_37/image1.jpg?raw=true)
 
