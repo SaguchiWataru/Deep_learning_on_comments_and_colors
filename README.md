@@ -348,8 +348,8 @@ def load_json_line(file_path):
 プログラミングのレベルを他の人と相対的に可視化できるサイトなので、よろしければご確認ください。  
 [K019C1053のコンテスト実績](https://atcoder.jp/users/K019C1053)  
 K019C1053は、日本工学院専門学校の佐口航の学籍番号です。  
-
-2023年卒業予定です！  
+保有資格は、国家試験の基本情報技術者試験です。  
+2023年卒業予定です。  
 
 ![スライド27](https://github.com/SaguchiWataru/Deep_learning_on_comments_and_colors/blob/master/images/presentation/ver2020_05_25_18_37/image27.jpg?raw=true)
 
