@@ -163,7 +163,7 @@ def check_command(data):
 
 ![スライド13](https://github.com/SaguchiWataru/Deep_learning_on_comments_and_colors/blob/master/images/presentation/ver2020_05_25_18_37/image13.jpg?raw=true)
 
-今回、学習データと正解ラベルに使用するデータが約329GBある訳ですが、一度に学習させることはコンシューマー向けのパソコンでは基本的に不可能でした。  
+今回、学習データと正解ラベルに使用するデータが約329GBありますが、一度に全てを学習させることはコンシューマー向けのパソコンでは不可能でした。  
 
 ![スライド14](https://github.com/SaguchiWataru/Deep_learning_on_comments_and_colors/blob/master/images/presentation/ver2020_05_25_18_37/image14.jpg?raw=true)
 
